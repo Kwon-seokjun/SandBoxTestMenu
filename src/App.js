@@ -16,7 +16,7 @@ const Menu = (props) => {
   );
 };
 
-const MenuItems = ["짜장면", "짬뽕", "팔보채", "마파두부", "탕수육"];
+const MenuItems = ["짜장면", "짬뽕", "팔보채", "마파두부", "탕수육", "볶음밥"];
 
 export default function App() {
   return (
